@@ -20,10 +20,10 @@ For Windows or Linux
 - [x] Sound `ALC` Fix
 - [x] Ram `Dual Channel 2x8 GB` Fix
 - [x] Fan `Fan and Thermal` Fix with smc Needed App support for control
-X Graphics Switch `AMD Radeon R5 M315` Not Support but...
-X Touchpad `Synaptics` bug (idk this problem my touchpad or kext)
-? Display Port `HDMI` Not tested
-? Battery `Battery Status` Not tested
+- X Graphics Switch `AMD Radeon R5 M315` Not Support but...
+- X Touchpad `Synaptics` bug (idk this problem my touchpad or kext)
+- ? Display Port `HDMI` Not tested
+- ? Battery `Battery Status` Not tested
 
 ## Usage
 Step: `Copy Folder "EFI" to your partition EFI (don't replacement. please delete first your old EFI)`
